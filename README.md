@@ -4,7 +4,7 @@ MSI MODERN 14 B5M
     Graphics	Radeon™ Graphics (512MB) iGPU	✔️                                                                                                                                                                       
     KINGSTON OM8PCP3512F-AI1								✔️                                                                                                                                                                       
     Speaker + Mic	Realtek ALC255						❌                                                                                                                                                                       
-    Headphone	Realtek ALC256 								✔️                                                                                                                                                                       
+    Headphone	Realtek ALC255 								✔️                                                                                                                                                                       
     Wireless	MediaTek RZ608								❌                                                                                                                                                                       
     Card Reader	Realtek PCI-E Card Reader		✔️                                                                                                                                                                       
     WebCam																	❌                                                                                                                                                                       
